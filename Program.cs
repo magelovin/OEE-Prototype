@@ -1,7 +1,7 @@
 using System;
 using System.Globalization;
 
-namespace PrimeiroProjeto
+namespace OEE_ProjectMageLovin
 {
     class Program
     {
