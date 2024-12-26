@@ -1,7 +1,7 @@
 using System;
 using System.Globalization;
 
-namespace PrimeiroProjeto
+namespace OEE_Project
 {
     class Program
     {
