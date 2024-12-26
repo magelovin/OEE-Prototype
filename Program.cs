@@ -1,7 +1,7 @@
 using System;
 using System.Globalization;
 
-namespace OEE_Project
+namespace PrimeiroProjeto
 {
     class Program
     {
@@ -58,7 +58,7 @@ namespace OEE_Project
 
                         Console.WriteLine("Disponibilidade: " + tempo.ToString("F2") + "%");
             Console.WriteLine("OEE: " + oEE.ToString("F2") + "%");
-            if (perfomance > 85)
+            if (oEE > 85)
             {
                 Console.WriteLine("Parabéns! Meta do dia atingida!");
             }
